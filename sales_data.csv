@@ -1,0 +1,901 @@
+date,product,units_sold,unit_price
+2025-01-01,Notebooks,44,2.5
+2025-01-01,Pencils,77,0.5
+2025-01-01,Backpacks,17,35.0
+2025-01-01,Calculators,13,18.0
+2025-01-01,Pencil Cases,23,8.0
+2025-01-02,Notebooks,37,2.5
+2025-01-02,Pencils,111,0.5
+2025-01-02,Backpacks,17,35.0
+2025-01-02,Calculators,8,18.0
+2025-01-02,Pencil Cases,28,8.0
+2025-01-03,Notebooks,35,2.5
+2025-01-03,Pencils,70,0.5
+2025-01-03,Backpacks,15,35.0
+2025-01-03,Calculators,5,18.0
+2025-01-03,Pencil Cases,14,8.0
+2025-01-04,Notebooks,34,2.5
+2025-01-04,Pencils,59,0.5
+2025-01-04,Backpacks,16,35.0
+2025-01-04,Calculators,7,18.0
+2025-01-04,Pencil Cases,16,8.0
+2025-01-05,Notebooks,54,2.5
+2025-01-05,Pencils,75,0.5
+2025-01-05,Backpacks,15,35.0
+2025-01-05,Calculators,6,18.0
+2025-01-05,Pencil Cases,21,8.0
+2025-01-06,Notebooks,41,2.5
+2025-01-06,Pencils,56,0.5
+2025-01-06,Backpacks,16,35.0
+2025-01-06,Calculators,8,18.0
+2025-01-06,Pencil Cases,23,8.0
+2025-01-07,Notebooks,33,2.5
+2025-01-07,Pencils,117,0.5
+2025-01-07,Backpacks,14,35.0
+2025-01-07,Calculators,7,18.0
+2025-01-07,Pencil Cases,30,8.0
+2025-01-08,Notebooks,27,2.5
+2025-01-08,Pencils,84,0.5
+2025-01-08,Backpacks,7,35.0
+2025-01-08,Calculators,6,18.0
+2025-01-08,Pencil Cases,26,8.0
+2025-01-09,Notebooks,47,2.5
+2025-01-09,Pencils,83,0.5
+2025-01-09,Backpacks,14,35.0
+2025-01-09,Calculators,9,18.0
+2025-01-09,Pencil Cases,15,8.0
+2025-01-10,Notebooks,32,2.5
+2025-01-10,Pencils,70,0.5
+2025-01-10,Backpacks,18,35.0
+2025-01-10,Calculators,10,18.0
+2025-01-10,Pencil Cases,13,8.0
+2025-01-11,Notebooks,43,2.5
+2025-01-11,Pencils,72,0.5
+2025-01-11,Backpacks,12,35.0
+2025-01-11,Calculators,11,18.0
+2025-01-11,Pencil Cases,31,8.0
+2025-01-12,Notebooks,49,2.5
+2025-01-12,Pencils,63,0.5
+2025-01-12,Backpacks,13,35.0
+2025-01-12,Calculators,10,18.0
+2025-01-12,Pencil Cases,31,8.0
+2025-01-13,Notebooks,35,2.5
+2025-01-13,Pencils,76,0.5
+2025-01-13,Backpacks,10,35.0
+2025-01-13,Calculators,7,18.0
+2025-01-13,Pencil Cases,30,8.0
+2025-01-14,Notebooks,53,2.5
+2025-01-14,Pencils,78,0.5
+2025-01-14,Backpacks,18,35.0
+2025-01-14,Calculators,10,18.0
+2025-01-14,Pencil Cases,20,8.0
+2025-01-15,Notebooks,43,2.5
+2025-01-15,Pencils,110,0.5
+2025-01-15,Backpacks,14,35.0
+2025-01-15,Calculators,13,18.0
+2025-01-15,Pencil Cases,8,8.0
+2025-01-16,Notebooks,48,2.5
+2025-01-16,Pencils,81,0.5
+2025-01-16,Backpacks,13,35.0
+2025-01-16,Calculators,10,18.0
+2025-01-16,Pencil Cases,12,8.0
+2025-01-17,Notebooks,37,2.5
+2025-01-17,Pencils,87,0.5
+2025-01-17,Backpacks,20,35.0
+2025-01-17,Calculators,8,18.0
+2025-01-17,Pencil Cases,19,8.0
+2025-01-18,Notebooks,34,2.5
+2025-01-18,Pencils,98,0.5
+2025-01-18,Backpacks,16,35.0
+2025-01-18,Calculators,8,18.0
+2025-01-18,Pencil Cases,28,8.0
+2025-01-19,Notebooks,40,2.5
+2025-01-19,Pencils,99,0.5
+2025-01-19,Backpacks,12,35.0
+2025-01-19,Calculators,9,18.0
+2025-01-19,Pencil Cases,22,8.0
+2025-01-20,Notebooks,25,2.5
+2025-01-20,Pencils,85,0.5
+2025-01-20,Backpacks,15,35.0
+2025-01-20,Calculators,10,18.0
+2025-01-20,Pencil Cases,23,8.0
+2025-01-21,Notebooks,25,2.5
+2025-01-21,Pencils,71,0.5
+2025-01-21,Backpacks,13,35.0
+2025-01-21,Calculators,7,18.0
+2025-01-21,Pencil Cases,23,8.0
+2025-01-22,Notebooks,44,2.5
+2025-01-22,Pencils,117,0.5
+2025-01-22,Backpacks,15,35.0
+2025-01-22,Calculators,10,18.0
+2025-01-22,Pencil Cases,24,8.0
+2025-01-23,Notebooks,20,2.5
+2025-01-23,Pencils,79,0.5
+2025-01-23,Backpacks,15,35.0
+2025-01-23,Calculators,16,18.0
+2025-01-23,Pencil Cases,23,8.0
+2025-01-24,Notebooks,43,2.5
+2025-01-24,Pencils,79,0.5
+2025-01-24,Backpacks,10,35.0
+2025-01-24,Calculators,12,18.0
+2025-01-24,Pencil Cases,29,8.0
+2025-01-25,Notebooks,47,2.5
+2025-01-25,Pencils,61,0.5
+2025-01-25,Backpacks,20,35.0
+2025-01-25,Calculators,6,18.0
+2025-01-25,Pencil Cases,28,8.0
+2025-01-26,Notebooks,61,2.5
+2025-01-26,Pencils,60,0.5
+2025-01-26,Backpacks,12,35.0
+2025-01-26,Calculators,10,18.0
+2025-01-26,Pencil Cases,21,8.0
+2025-01-27,Notebooks,24,2.5
+2025-01-27,Pencils,81,0.5
+2025-01-27,Backpacks,11,35.0
+2025-01-27,Calculators,11,18.0
+2025-01-27,Pencil Cases,19,8.0
+2025-01-28,Notebooks,55,2.5
+2025-01-28,Pencils,64,0.5
+2025-01-28,Backpacks,13,35.0
+2025-01-28,Calculators,12,18.0
+2025-01-28,Pencil Cases,17,8.0
+2025-01-29,Notebooks,42,2.5
+2025-01-29,Pencils,106,0.5
+2025-01-29,Backpacks,8,35.0
+2025-01-29,Calculators,10,18.0
+2025-01-29,Pencil Cases,26,8.0
+2025-01-30,Notebooks,47,2.5
+2025-01-30,Pencils,55,0.5
+2025-01-30,Backpacks,10,35.0
+2025-01-30,Calculators,11,18.0
+2025-01-30,Pencil Cases,26,8.0
+2025-01-31,Notebooks,42,2.5
+2025-01-31,Pencils,86,0.5
+2025-01-31,Backpacks,12,35.0
+2025-01-31,Calculators,10,18.0
+2025-01-31,Pencil Cases,26,8.0
+2025-02-01,Notebooks,32,2.5
+2025-02-01,Pencils,117,0.5
+2025-02-01,Backpacks,16,35.0
+2025-02-01,Calculators,7,18.0
+2025-02-01,Pencil Cases,29,8.0
+2025-02-02,Notebooks,30,2.5
+2025-02-02,Pencils,95,0.5
+2025-02-02,Backpacks,19,35.0
+2025-02-02,Calculators,7,18.0
+2025-02-02,Pencil Cases,31,8.0
+2025-02-03,Notebooks,44,2.5
+2025-02-03,Pencils,96,0.5
+2025-02-03,Backpacks,22,35.0
+2025-02-03,Calculators,9,18.0
+2025-02-03,Pencil Cases,20,8.0
+2025-02-04,Notebooks,31,2.5
+2025-02-04,Pencils,63,0.5
+2025-02-04,Backpacks,14,35.0
+2025-02-04,Calculators,10,18.0
+2025-02-04,Pencil Cases,26,8.0
+2025-02-05,Notebooks,48,2.5
+2025-02-05,Pencils,80,0.5
+2025-02-05,Backpacks,20,35.0
+2025-02-05,Calculators,9,18.0
+2025-02-05,Pencil Cases,42,8.0
+2025-02-06,Notebooks,46,2.5
+2025-02-06,Pencils,62,0.5
+2025-02-06,Backpacks,10,35.0
+2025-02-06,Calculators,11,18.0
+2025-02-06,Pencil Cases,23,8.0
+2025-02-07,Notebooks,47,2.5
+2025-02-07,Pencils,89,0.5
+2025-02-07,Backpacks,14,35.0
+2025-02-07,Calculators,7,18.0
+2025-02-07,Pencil Cases,15,8.0
+2025-02-08,Notebooks,35,2.5
+2025-02-08,Pencils,97,0.5
+2025-02-08,Backpacks,15,35.0
+2025-02-08,Calculators,6,18.0
+2025-02-08,Pencil Cases,26,8.0
+2025-02-09,Notebooks,43,2.5
+2025-02-09,Pencils,62,0.5
+2025-02-09,Backpacks,15,35.0
+2025-02-09,Calculators,10,18.0
+2025-02-09,Pencil Cases,17,8.0
+2025-02-10,Notebooks,43,2.5
+2025-02-10,Pencils,91,0.5
+2025-02-10,Backpacks,19,35.0
+2025-02-10,Calculators,12,18.0
+2025-02-10,Pencil Cases,16,8.0
+2025-02-11,Notebooks,30,2.5
+2025-02-11,Pencils,90,0.5
+2025-02-11,Backpacks,16,35.0
+2025-02-11,Calculators,11,18.0
+2025-02-11,Pencil Cases,49,8.0
+2025-02-12,Notebooks,45,2.5
+2025-02-12,Pencils,102,0.5
+2025-02-12,Backpacks,18,35.0
+2025-02-12,Calculators,11,18.0
+2025-02-12,Pencil Cases,23,8.0
+2025-02-13,Notebooks,47,2.5
+2025-02-13,Pencils,64,0.5
+2025-02-13,Backpacks,14,35.0
+2025-02-13,Calculators,8,18.0
+2025-02-13,Pencil Cases,25,8.0
+2025-02-14,Notebooks,63,2.5
+2025-02-14,Pencils,42,0.5
+2025-02-14,Backpacks,17,35.0
+2025-02-14,Calculators,5,18.0
+2025-02-14,Pencil Cases,22,8.0
+2025-02-15,Notebooks,50,2.5
+2025-02-15,Pencils,81,0.5
+2025-02-15,Backpacks,10,35.0
+2025-02-15,Calculators,8,18.0
+2025-02-15,Pencil Cases,29,8.0
+2025-02-16,Notebooks,32,2.5
+2025-02-16,Pencils,84,0.5
+2025-02-16,Backpacks,15,35.0
+2025-02-16,Calculators,8,18.0
+2025-02-16,Pencil Cases,38,8.0
+2025-02-17,Notebooks,46,2.5
+2025-02-17,Pencils,39,0.5
+2025-02-17,Backpacks,15,35.0
+2025-02-17,Calculators,8,18.0
+2025-02-17,Pencil Cases,30,8.0
+2025-02-18,Notebooks,32,2.5
+2025-02-18,Pencils,77,0.5
+2025-02-18,Backpacks,16,35.0
+2025-02-18,Calculators,12,18.0
+2025-02-18,Pencil Cases,17,8.0
+2025-02-19,Notebooks,36,2.5
+2025-02-19,Pencils,70,0.5
+2025-02-19,Backpacks,12,35.0
+2025-02-19,Calculators,14,18.0
+2025-02-19,Pencil Cases,27,8.0
+2025-02-20,Notebooks,27,2.5
+2025-02-20,Pencils,98,0.5
+2025-02-20,Backpacks,22,35.0
+2025-02-20,Calculators,12,18.0
+2025-02-20,Pencil Cases,15,8.0
+2025-02-21,Notebooks,35,2.5
+2025-02-21,Pencils,105,0.5
+2025-02-21,Backpacks,12,35.0
+2025-02-21,Calculators,11,18.0
+2025-02-21,Pencil Cases,29,8.0
+2025-02-22,Notebooks,30,2.5
+2025-02-22,Pencils,78,0.5
+2025-02-22,Backpacks,2,35.0
+2025-02-22,Calculators,7,18.0
+2025-02-22,Pencil Cases,23,8.0
+2025-02-23,Notebooks,27,2.5
+2025-02-23,Pencils,112,0.5
+2025-02-23,Backpacks,9,35.0
+2025-02-23,Calculators,8,18.0
+2025-02-23,Pencil Cases,25,8.0
+2025-02-24,Notebooks,54,2.5
+2025-02-24,Pencils,51,0.5
+2025-02-24,Backpacks,19,35.0
+2025-02-24,Calculators,10,18.0
+2025-02-24,Pencil Cases,18,8.0
+2025-02-25,Notebooks,44,2.5
+2025-02-25,Pencils,83,0.5
+2025-02-25,Backpacks,12,35.0
+2025-02-25,Calculators,10,18.0
+2025-02-25,Pencil Cases,22,8.0
+2025-02-26,Notebooks,41,2.5
+2025-02-26,Pencils,93,0.5
+2025-02-26,Backpacks,20,35.0
+2025-02-26,Calculators,6,18.0
+2025-02-26,Pencil Cases,38,8.0
+2025-02-27,Notebooks,20,2.5
+2025-02-27,Pencils,76,0.5
+2025-02-27,Backpacks,17,35.0
+2025-02-27,Calculators,10,18.0
+2025-02-27,Pencil Cases,21,8.0
+2025-02-28,Notebooks,37,2.5
+2025-02-28,Pencils,70,0.5
+2025-02-28,Backpacks,12,35.0
+2025-02-28,Calculators,12,18.0
+2025-02-28,Pencil Cases,27,8.0
+2025-03-01,Notebooks,33,2.5
+2025-03-01,Pencils,97,0.5
+2025-03-01,Backpacks,16,35.0
+2025-03-01,Calculators,12,18.0
+2025-03-01,Pencil Cases,28,8.0
+2025-03-02,Notebooks,31,2.5
+2025-03-02,Pencils,68,0.5
+2025-03-02,Backpacks,17,35.0
+2025-03-02,Calculators,11,18.0
+2025-03-02,Pencil Cases,24,8.0
+2025-03-03,Notebooks,41,2.5
+2025-03-03,Pencils,105,0.5
+2025-03-03,Backpacks,12,35.0
+2025-03-03,Calculators,11,18.0
+2025-03-03,Pencil Cases,23,8.0
+2025-03-04,Notebooks,37,2.5
+2025-03-04,Pencils,101,0.5
+2025-03-04,Backpacks,18,35.0
+2025-03-04,Calculators,12,18.0
+2025-03-04,Pencil Cases,33,8.0
+2025-03-05,Notebooks,40,2.5
+2025-03-05,Pencils,93,0.5
+2025-03-05,Backpacks,13,35.0
+2025-03-05,Calculators,10,18.0
+2025-03-05,Pencil Cases,24,8.0
+2025-03-06,Notebooks,40,2.5
+2025-03-06,Pencils,91,0.5
+2025-03-06,Backpacks,11,35.0
+2025-03-06,Calculators,15,18.0
+2025-03-06,Pencil Cases,18,8.0
+2025-03-07,Notebooks,27,2.5
+2025-03-07,Pencils,103,0.5
+2025-03-07,Backpacks,17,35.0
+2025-03-07,Calculators,11,18.0
+2025-03-07,Pencil Cases,28,8.0
+2025-03-08,Notebooks,39,2.5
+2025-03-08,Pencils,62,0.5
+2025-03-08,Backpacks,15,35.0
+2025-03-08,Calculators,8,18.0
+2025-03-08,Pencil Cases,31,8.0
+2025-03-09,Notebooks,38,2.5
+2025-03-09,Pencils,63,0.5
+2025-03-09,Backpacks,13,35.0
+2025-03-09,Calculators,11,18.0
+2025-03-09,Pencil Cases,21,8.0
+2025-03-10,Notebooks,31,2.5
+2025-03-10,Pencils,84,0.5
+2025-03-10,Backpacks,15,35.0
+2025-03-10,Calculators,8,18.0
+2025-03-10,Pencil Cases,22,8.0
+2025-03-11,Notebooks,42,2.5
+2025-03-11,Pencils,51,0.5
+2025-03-11,Backpacks,9,35.0
+2025-03-11,Calculators,8,18.0
+2025-03-11,Pencil Cases,23,8.0
+2025-03-12,Notebooks,43,2.5
+2025-03-12,Pencils,109,0.5
+2025-03-12,Backpacks,18,35.0
+2025-03-12,Calculators,9,18.0
+2025-03-12,Pencil Cases,24,8.0
+2025-03-13,Notebooks,29,2.5
+2025-03-13,Pencils,79,0.5
+2025-03-13,Backpacks,13,35.0
+2025-03-13,Calculators,10,18.0
+2025-03-13,Pencil Cases,19,8.0
+2025-03-14,Notebooks,45,2.5
+2025-03-14,Pencils,110,0.5
+2025-03-14,Backpacks,14,35.0
+2025-03-14,Calculators,11,18.0
+2025-03-14,Pencil Cases,29,8.0
+2025-03-15,Notebooks,35,2.5
+2025-03-15,Pencils,84,0.5
+2025-03-15,Backpacks,15,35.0
+2025-03-15,Calculators,10,18.0
+2025-03-15,Pencil Cases,20,8.0
+2025-03-16,Notebooks,40,2.5
+2025-03-16,Pencils,89,0.5
+2025-03-16,Backpacks,20,35.0
+2025-03-16,Calculators,12,18.0
+2025-03-16,Pencil Cases,38,8.0
+2025-03-17,Notebooks,32,2.5
+2025-03-17,Pencils,97,0.5
+2025-03-17,Backpacks,15,35.0
+2025-03-17,Calculators,15,18.0
+2025-03-17,Pencil Cases,19,8.0
+2025-03-18,Notebooks,31,2.5
+2025-03-18,Pencils,68,0.5
+2025-03-18,Backpacks,7,35.0
+2025-03-18,Calculators,8,18.0
+2025-03-18,Pencil Cases,20,8.0
+2025-03-19,Notebooks,41,2.5
+2025-03-19,Pencils,86,0.5
+2025-03-19,Backpacks,22,35.0
+2025-03-19,Calculators,12,18.0
+2025-03-19,Pencil Cases,21,8.0
+2025-03-20,Notebooks,31,2.5
+2025-03-20,Pencils,89,0.5
+2025-03-20,Backpacks,10,35.0
+2025-03-20,Calculators,14,18.0
+2025-03-20,Pencil Cases,32,8.0
+2025-03-21,Notebooks,35,2.5
+2025-03-21,Pencils,45,0.5
+2025-03-21,Backpacks,20,35.0
+2025-03-21,Calculators,9,18.0
+2025-03-21,Pencil Cases,32,8.0
+2025-03-22,Notebooks,24,2.5
+2025-03-22,Pencils,68,0.5
+2025-03-22,Backpacks,15,35.0
+2025-03-22,Calculators,10,18.0
+2025-03-22,Pencil Cases,22,8.0
+2025-03-23,Notebooks,46,2.5
+2025-03-23,Pencils,58,0.5
+2025-03-23,Backpacks,14,35.0
+2025-03-23,Calculators,10,18.0
+2025-03-23,Pencil Cases,28,8.0
+2025-03-24,Notebooks,47,2.5
+2025-03-24,Pencils,57,0.5
+2025-03-24,Backpacks,9,35.0
+2025-03-24,Calculators,13,18.0
+2025-03-24,Pencil Cases,27,8.0
+2025-03-25,Notebooks,32,2.5
+2025-03-25,Pencils,111,0.5
+2025-03-25,Backpacks,15,35.0
+2025-03-25,Calculators,12,18.0
+2025-03-25,Pencil Cases,25,8.0
+2025-03-26,Notebooks,60,2.5
+2025-03-26,Pencils,115,0.5
+2025-03-26,Backpacks,14,35.0
+2025-03-26,Calculators,12,18.0
+2025-03-26,Pencil Cases,29,8.0
+2025-03-27,Notebooks,53,2.5
+2025-03-27,Pencils,60,0.5
+2025-03-27,Backpacks,17,35.0
+2025-03-27,Calculators,12,18.0
+2025-03-27,Pencil Cases,14,8.0
+2025-03-28,Notebooks,28,2.5
+2025-03-28,Pencils,39,0.5
+2025-03-28,Backpacks,13,35.0
+2025-03-28,Calculators,11,18.0
+2025-03-28,Pencil Cases,34,8.0
+2025-03-29,Notebooks,40,2.5
+2025-03-29,Pencils,112,0.5
+2025-03-29,Backpacks,9,35.0
+2025-03-29,Calculators,5,18.0
+2025-03-29,Pencil Cases,24,8.0
+2025-03-30,Notebooks,43,2.5
+2025-03-30,Pencils,79,0.5
+2025-03-30,Backpacks,7,35.0
+2025-03-30,Calculators,9,18.0
+2025-03-30,Pencil Cases,16,8.0
+2025-03-31,Notebooks,46,2.5
+2025-03-31,Pencils,87,0.5
+2025-03-31,Backpacks,11,35.0
+2025-03-31,Calculators,8,18.0
+2025-03-31,Pencil Cases,18,8.0
+2025-04-01,Notebooks,39,2.5
+2025-04-01,Pencils,99,0.5
+2025-04-01,Backpacks,11,35.0
+2025-04-01,Calculators,11,18.0
+2025-04-01,Pencil Cases,21,8.0
+2025-04-02,Notebooks,32,2.5
+2025-04-02,Pencils,77,0.5
+2025-04-02,Backpacks,11,35.0
+2025-04-02,Calculators,8,18.0
+2025-04-02,Pencil Cases,17,8.0
+2025-04-03,Notebooks,59,2.5
+2025-04-03,Pencils,80,0.5
+2025-04-03,Backpacks,12,35.0
+2025-04-03,Calculators,10,18.0
+2025-04-03,Pencil Cases,24,8.0
+2025-04-04,Notebooks,37,2.5
+2025-04-04,Pencils,92,0.5
+2025-04-04,Backpacks,17,35.0
+2025-04-04,Calculators,8,18.0
+2025-04-04,Pencil Cases,21,8.0
+2025-04-05,Notebooks,37,2.5
+2025-04-05,Pencils,33,0.5
+2025-04-05,Backpacks,9,35.0
+2025-04-05,Calculators,13,18.0
+2025-04-05,Pencil Cases,35,8.0
+2025-04-06,Notebooks,37,2.5
+2025-04-06,Pencils,91,0.5
+2025-04-06,Backpacks,16,35.0
+2025-04-06,Calculators,17,18.0
+2025-04-06,Pencil Cases,31,8.0
+2025-04-07,Notebooks,38,2.5
+2025-04-07,Pencils,60,0.5
+2025-04-07,Backpacks,8,35.0
+2025-04-07,Calculators,10,18.0
+2025-04-07,Pencil Cases,20,8.0
+2025-04-08,Notebooks,25,2.5
+2025-04-08,Pencils,67,0.5
+2025-04-08,Backpacks,10,35.0
+2025-04-08,Calculators,14,18.0
+2025-04-08,Pencil Cases,30,8.0
+2025-04-09,Notebooks,39,2.5
+2025-04-09,Pencils,109,0.5
+2025-04-09,Backpacks,15,35.0
+2025-04-09,Calculators,7,18.0
+2025-04-09,Pencil Cases,34,8.0
+2025-04-10,Notebooks,45,2.5
+2025-04-10,Pencils,59,0.5
+2025-04-10,Backpacks,14,35.0
+2025-04-10,Calculators,7,18.0
+2025-04-10,Pencil Cases,16,8.0
+2025-04-11,Notebooks,49,2.5
+2025-04-11,Pencils,118,0.5
+2025-04-11,Backpacks,9,35.0
+2025-04-11,Calculators,11,18.0
+2025-04-11,Pencil Cases,20,8.0
+2025-04-12,Notebooks,35,2.5
+2025-04-12,Pencils,68,0.5
+2025-04-12,Backpacks,11,35.0
+2025-04-12,Calculators,10,18.0
+2025-04-12,Pencil Cases,19,8.0
+2025-04-13,Notebooks,42,2.5
+2025-04-13,Pencils,78,0.5
+2025-04-13,Backpacks,14,35.0
+2025-04-13,Calculators,7,18.0
+2025-04-13,Pencil Cases,21,8.0
+2025-04-14,Notebooks,47,2.5
+2025-04-14,Pencils,90,0.5
+2025-04-14,Backpacks,11,35.0
+2025-04-14,Calculators,10,18.0
+2025-04-14,Pencil Cases,29,8.0
+2025-04-15,Notebooks,23,2.5
+2025-04-15,Pencils,90,0.5
+2025-04-15,Backpacks,12,35.0
+2025-04-15,Calculators,11,18.0
+2025-04-15,Pencil Cases,20,8.0
+2025-04-16,Notebooks,21,2.5
+2025-04-16,Pencils,47,0.5
+2025-04-16,Backpacks,15,35.0
+2025-04-16,Calculators,10,18.0
+2025-04-16,Pencil Cases,19,8.0
+2025-04-17,Notebooks,46,2.5
+2025-04-17,Pencils,46,0.5
+2025-04-17,Backpacks,14,35.0
+2025-04-17,Calculators,6,18.0
+2025-04-17,Pencil Cases,20,8.0
+2025-04-18,Notebooks,40,2.5
+2025-04-18,Pencils,62,0.5
+2025-04-18,Backpacks,13,35.0
+2025-04-18,Calculators,12,18.0
+2025-04-18,Pencil Cases,21,8.0
+2025-04-19,Notebooks,48,2.5
+2025-04-19,Pencils,57,0.5
+2025-04-19,Backpacks,16,35.0
+2025-04-19,Calculators,13,18.0
+2025-04-19,Pencil Cases,9,8.0
+2025-04-20,Notebooks,32,2.5
+2025-04-20,Pencils,91,0.5
+2025-04-20,Backpacks,14,35.0
+2025-04-20,Calculators,10,18.0
+2025-04-20,Pencil Cases,21,8.0
+2025-04-21,Notebooks,40,2.5
+2025-04-21,Pencils,76,0.5
+2025-04-21,Backpacks,19,35.0
+2025-04-21,Calculators,10,18.0
+2025-04-21,Pencil Cases,27,8.0
+2025-04-22,Notebooks,35,2.5
+2025-04-22,Pencils,70,0.5
+2025-04-22,Backpacks,13,35.0
+2025-04-22,Calculators,10,18.0
+2025-04-22,Pencil Cases,22,8.0
+2025-04-23,Notebooks,42,2.5
+2025-04-23,Pencils,121,0.5
+2025-04-23,Backpacks,18,35.0
+2025-04-23,Calculators,9,18.0
+2025-04-23,Pencil Cases,32,8.0
+2025-04-24,Notebooks,35,2.5
+2025-04-24,Pencils,39,0.5
+2025-04-24,Backpacks,11,35.0
+2025-04-24,Calculators,5,18.0
+2025-04-24,Pencil Cases,22,8.0
+2025-04-25,Notebooks,40,2.5
+2025-04-25,Pencils,113,0.5
+2025-04-25,Backpacks,16,35.0
+2025-04-25,Calculators,9,18.0
+2025-04-25,Pencil Cases,30,8.0
+2025-04-26,Notebooks,17,2.5
+2025-04-26,Pencils,84,0.5
+2025-04-26,Backpacks,17,35.0
+2025-04-26,Calculators,6,18.0
+2025-04-26,Pencil Cases,32,8.0
+2025-04-27,Notebooks,43,2.5
+2025-04-27,Pencils,71,0.5
+2025-04-27,Backpacks,17,35.0
+2025-04-27,Calculators,15,18.0
+2025-04-27,Pencil Cases,26,8.0
+2025-04-28,Notebooks,42,2.5
+2025-04-28,Pencils,70,0.5
+2025-04-28,Backpacks,11,35.0
+2025-04-28,Calculators,12,18.0
+2025-04-28,Pencil Cases,19,8.0
+2025-04-29,Notebooks,40,2.5
+2025-04-29,Pencils,70,0.5
+2025-04-29,Backpacks,16,35.0
+2025-04-29,Calculators,10,18.0
+2025-04-29,Pencil Cases,31,8.0
+2025-04-30,Notebooks,34,2.5
+2025-04-30,Pencils,74,0.5
+2025-04-30,Backpacks,11,35.0
+2025-04-30,Calculators,8,18.0
+2025-04-30,Pencil Cases,27,8.0
+2025-05-01,Notebooks,47,2.5
+2025-05-01,Pencils,61,0.5
+2025-05-01,Backpacks,18,35.0
+2025-05-01,Calculators,13,18.0
+2025-05-01,Pencil Cases,27,8.0
+2025-05-02,Notebooks,58,2.5
+2025-05-02,Pencils,64,0.5
+2025-05-02,Backpacks,10,35.0
+2025-05-02,Calculators,5,18.0
+2025-05-02,Pencil Cases,34,8.0
+2025-05-03,Notebooks,46,2.5
+2025-05-03,Pencils,78,0.5
+2025-05-03,Backpacks,16,35.0
+2025-05-03,Calculators,7,18.0
+2025-05-03,Pencil Cases,40,8.0
+2025-05-04,Notebooks,41,2.5
+2025-05-04,Pencils,82,0.5
+2025-05-04,Backpacks,17,35.0
+2025-05-04,Calculators,11,18.0
+2025-05-04,Pencil Cases,26,8.0
+2025-05-05,Notebooks,32,2.5
+2025-05-05,Pencils,89,0.5
+2025-05-05,Backpacks,22,35.0
+2025-05-05,Calculators,13,18.0
+2025-05-05,Pencil Cases,34,8.0
+2025-05-06,Notebooks,34,2.5
+2025-05-06,Pencils,60,0.5
+2025-05-06,Backpacks,14,35.0
+2025-05-06,Calculators,10,18.0
+2025-05-06,Pencil Cases,31,8.0
+2025-05-07,Notebooks,23,2.5
+2025-05-07,Pencils,110,0.5
+2025-05-07,Backpacks,14,35.0
+2025-05-07,Calculators,8,18.0
+2025-05-07,Pencil Cases,18,8.0
+2025-05-08,Notebooks,23,2.5
+2025-05-08,Pencils,96,0.5
+2025-05-08,Backpacks,15,35.0
+2025-05-08,Calculators,6,18.0
+2025-05-08,Pencil Cases,16,8.0
+2025-05-09,Notebooks,36,2.5
+2025-05-09,Pencils,113,0.5
+2025-05-09,Backpacks,14,35.0
+2025-05-09,Calculators,6,18.0
+2025-05-09,Pencil Cases,23,8.0
+2025-05-10,Notebooks,37,2.5
+2025-05-10,Pencils,26,0.5
+2025-05-10,Backpacks,14,35.0
+2025-05-10,Calculators,9,18.0
+2025-05-10,Pencil Cases,29,8.0
+2025-05-11,Notebooks,58,2.5
+2025-05-11,Pencils,102,0.5
+2025-05-11,Backpacks,13,35.0
+2025-05-11,Calculators,7,18.0
+2025-05-11,Pencil Cases,41,8.0
+2025-05-12,Notebooks,40,2.5
+2025-05-12,Pencils,80,0.5
+2025-05-12,Backpacks,14,35.0
+2025-05-12,Calculators,10,18.0
+2025-05-12,Pencil Cases,24,8.0
+2025-05-13,Notebooks,34,2.5
+2025-05-13,Pencils,69,0.5
+2025-05-13,Backpacks,14,35.0
+2025-05-13,Calculators,8,18.0
+2025-05-13,Pencil Cases,20,8.0
+2025-05-14,Notebooks,41,2.5
+2025-05-14,Pencils,74,0.5
+2025-05-14,Backpacks,20,35.0
+2025-05-14,Calculators,3,18.0
+2025-05-14,Pencil Cases,31,8.0
+2025-05-15,Notebooks,52,2.5
+2025-05-15,Pencils,38,0.5
+2025-05-15,Backpacks,13,35.0
+2025-05-15,Calculators,9,18.0
+2025-05-15,Pencil Cases,16,8.0
+2025-05-16,Notebooks,32,2.5
+2025-05-16,Pencils,57,0.5
+2025-05-16,Backpacks,21,35.0
+2025-05-16,Calculators,12,18.0
+2025-05-16,Pencil Cases,32,8.0
+2025-05-17,Notebooks,47,2.5
+2025-05-17,Pencils,57,0.5
+2025-05-17,Backpacks,13,35.0
+2025-05-17,Calculators,11,18.0
+2025-05-17,Pencil Cases,17,8.0
+2025-05-18,Notebooks,47,2.5
+2025-05-18,Pencils,75,0.5
+2025-05-18,Backpacks,13,35.0
+2025-05-18,Calculators,11,18.0
+2025-05-18,Pencil Cases,27,8.0
+2025-05-19,Notebooks,36,2.5
+2025-05-19,Pencils,103,0.5
+2025-05-19,Backpacks,10,35.0
+2025-05-19,Calculators,11,18.0
+2025-05-19,Pencil Cases,28,8.0
+2025-05-20,Notebooks,36,2.5
+2025-05-20,Pencils,86,0.5
+2025-05-20,Backpacks,10,35.0
+2025-05-20,Calculators,12,18.0
+2025-05-20,Pencil Cases,23,8.0
+2025-05-21,Notebooks,34,2.5
+2025-05-21,Pencils,100,0.5
+2025-05-21,Backpacks,12,35.0
+2025-05-21,Calculators,6,18.0
+2025-05-21,Pencil Cases,15,8.0
+2025-05-22,Notebooks,46,2.5
+2025-05-22,Pencils,54,0.5
+2025-05-22,Backpacks,21,35.0
+2025-05-22,Calculators,4,18.0
+2025-05-22,Pencil Cases,35,8.0
+2025-05-23,Notebooks,42,2.5
+2025-05-23,Pencils,78,0.5
+2025-05-23,Backpacks,12,35.0
+2025-05-23,Calculators,10,18.0
+2025-05-23,Pencil Cases,24,8.0
+2025-05-24,Notebooks,51,2.5
+2025-05-24,Pencils,82,0.5
+2025-05-24,Backpacks,15,35.0
+2025-05-24,Calculators,9,18.0
+2025-05-24,Pencil Cases,24,8.0
+2025-05-25,Notebooks,43,2.5
+2025-05-25,Pencils,45,0.5
+2025-05-25,Backpacks,9,35.0
+2025-05-25,Calculators,11,18.0
+2025-05-25,Pencil Cases,26,8.0
+2025-05-26,Notebooks,38,2.5
+2025-05-26,Pencils,80,0.5
+2025-05-26,Backpacks,16,35.0
+2025-05-26,Calculators,8,18.0
+2025-05-26,Pencil Cases,20,8.0
+2025-05-27,Notebooks,41,2.5
+2025-05-27,Pencils,60,0.5
+2025-05-27,Backpacks,16,35.0
+2025-05-27,Calculators,5,18.0
+2025-05-27,Pencil Cases,31,8.0
+2025-05-28,Notebooks,44,2.5
+2025-05-28,Pencils,85,0.5
+2025-05-28,Backpacks,18,35.0
+2025-05-28,Calculators,14,18.0
+2025-05-28,Pencil Cases,31,8.0
+2025-05-29,Notebooks,21,2.5
+2025-05-29,Pencils,54,0.5
+2025-05-29,Backpacks,12,35.0
+2025-05-29,Calculators,10,18.0
+2025-05-29,Pencil Cases,28,8.0
+2025-05-30,Notebooks,32,2.5
+2025-05-30,Pencils,83,0.5
+2025-05-30,Backpacks,12,35.0
+2025-05-30,Calculators,8,18.0
+2025-05-30,Pencil Cases,16,8.0
+2025-05-31,Notebooks,30,2.5
+2025-05-31,Pencils,52,0.5
+2025-05-31,Backpacks,11,35.0
+2025-05-31,Calculators,12,18.0
+2025-05-31,Pencil Cases,19,8.0
+2025-06-01,Notebooks,66,2.5
+2025-06-01,Pencils,89,0.5
+2025-06-01,Backpacks,15,35.0
+2025-06-01,Calculators,7,18.0
+2025-06-01,Pencil Cases,29,8.0
+2025-06-02,Notebooks,34,2.5
+2025-06-02,Pencils,82,0.5
+2025-06-02,Backpacks,24,35.0
+2025-06-02,Calculators,9,18.0
+2025-06-02,Pencil Cases,32,8.0
+2025-06-03,Notebooks,32,2.5
+2025-06-03,Pencils,79,0.5
+2025-06-03,Backpacks,21,35.0
+2025-06-03,Calculators,8,18.0
+2025-06-03,Pencil Cases,36,8.0
+2025-06-04,Notebooks,47,2.5
+2025-06-04,Pencils,68,0.5
+2025-06-04,Backpacks,17,35.0
+2025-06-04,Calculators,12,18.0
+2025-06-04,Pencil Cases,28,8.0
+2025-06-05,Notebooks,24,2.5
+2025-06-05,Pencils,65,0.5
+2025-06-05,Backpacks,14,35.0
+2025-06-05,Calculators,9,18.0
+2025-06-05,Pencil Cases,28,8.0
+2025-06-06,Notebooks,41,2.5
+2025-06-06,Pencils,53,0.5
+2025-06-06,Backpacks,16,35.0
+2025-06-06,Calculators,11,18.0
+2025-06-06,Pencil Cases,28,8.0
+2025-06-07,Notebooks,50,2.5
+2025-06-07,Pencils,96,0.5
+2025-06-07,Backpacks,16,35.0
+2025-06-07,Calculators,9,18.0
+2025-06-07,Pencil Cases,14,8.0
+2025-06-08,Notebooks,44,2.5
+2025-06-08,Pencils,84,0.5
+2025-06-08,Backpacks,16,35.0
+2025-06-08,Calculators,6,18.0
+2025-06-08,Pencil Cases,18,8.0
+2025-06-09,Notebooks,50,2.5
+2025-06-09,Pencils,79,0.5
+2025-06-09,Backpacks,17,35.0
+2025-06-09,Calculators,10,18.0
+2025-06-09,Pencil Cases,25,8.0
+2025-06-10,Notebooks,49,2.5
+2025-06-10,Pencils,69,0.5
+2025-06-10,Backpacks,15,35.0
+2025-06-10,Calculators,8,18.0
+2025-06-10,Pencil Cases,22,8.0
+2025-06-11,Notebooks,36,2.5
+2025-06-11,Pencils,84,0.5
+2025-06-11,Backpacks,13,35.0
+2025-06-11,Calculators,13,18.0
+2025-06-11,Pencil Cases,19,8.0
+2025-06-12,Notebooks,38,2.5
+2025-06-12,Pencils,71,0.5
+2025-06-12,Backpacks,20,35.0
+2025-06-12,Calculators,10,18.0
+2025-06-12,Pencil Cases,31,8.0
+2025-06-13,Notebooks,25,2.5
+2025-06-13,Pencils,85,0.5
+2025-06-13,Backpacks,18,35.0
+2025-06-13,Calculators,10,18.0
+2025-06-13,Pencil Cases,31,8.0
+2025-06-14,Notebooks,34,2.5
+2025-06-14,Pencils,108,0.5
+2025-06-14,Backpacks,23,35.0
+2025-06-14,Calculators,9,18.0
+2025-06-14,Pencil Cases,22,8.0
+2025-06-15,Notebooks,54,2.5
+2025-06-15,Pencils,111,0.5
+2025-06-15,Backpacks,13,35.0
+2025-06-15,Calculators,8,18.0
+2025-06-15,Pencil Cases,23,8.0
+2025-06-16,Notebooks,26,2.5
+2025-06-16,Pencils,61,0.5
+2025-06-16,Backpacks,11,35.0
+2025-06-16,Calculators,8,18.0
+2025-06-16,Pencil Cases,24,8.0
+2025-06-17,Notebooks,42,2.5
+2025-06-17,Pencils,111,0.5
+2025-06-17,Backpacks,11,35.0
+2025-06-17,Calculators,12,18.0
+2025-06-17,Pencil Cases,23,8.0
+2025-06-18,Notebooks,39,2.5
+2025-06-18,Pencils,93,0.5
+2025-06-18,Backpacks,10,35.0
+2025-06-18,Calculators,10,18.0
+2025-06-18,Pencil Cases,26,8.0
+2025-06-19,Notebooks,44,2.5
+2025-06-19,Pencils,85,0.5
+2025-06-19,Backpacks,24,35.0
+2025-06-19,Calculators,8,18.0
+2025-06-19,Pencil Cases,21,8.0
+2025-06-20,Notebooks,33,2.5
+2025-06-20,Pencils,68,0.5
+2025-06-20,Backpacks,12,35.0
+2025-06-20,Calculators,12,18.0
+2025-06-20,Pencil Cases,33,8.0
+2025-06-21,Notebooks,34,2.5
+2025-06-21,Pencils,63,0.5
+2025-06-21,Backpacks,16,35.0
+2025-06-21,Calculators,8,18.0
+2025-06-21,Pencil Cases,28,8.0
+2025-06-22,Notebooks,42,2.5
+2025-06-22,Pencils,49,0.5
+2025-06-22,Backpacks,20,35.0
+2025-06-22,Calculators,14,18.0
+2025-06-22,Pencil Cases,21,8.0
+2025-06-23,Notebooks,36,2.5
+2025-06-23,Pencils,85,0.5
+2025-06-23,Backpacks,16,35.0
+2025-06-23,Calculators,11,18.0
+2025-06-23,Pencil Cases,37,8.0
+2025-06-24,Notebooks,38,2.5
+2025-06-24,Pencils,64,0.5
+2025-06-24,Backpacks,9,35.0
+2025-06-24,Calculators,8,18.0
+2025-06-24,Pencil Cases,24,8.0
+2025-06-25,Notebooks,57,2.5
+2025-06-25,Pencils,69,0.5
+2025-06-25,Backpacks,15,35.0
+2025-06-25,Calculators,9,18.0
+2025-06-25,Pencil Cases,32,8.0
+2025-06-26,Notebooks,65,2.5
+2025-06-26,Pencils,69,0.5
+2025-06-26,Backpacks,13,35.0
+2025-06-26,Calculators,12,18.0
+2025-06-26,Pencil Cases,29,8.0
+2025-06-27,Notebooks,58,2.5
+2025-06-27,Pencils,91,0.5
+2025-06-27,Backpacks,13,35.0
+2025-06-27,Calculators,11,18.0
+2025-06-27,Pencil Cases,31,8.0
+2025-06-28,Notebooks,48,2.5
+2025-06-28,Pencils,90,0.5
+2025-06-28,Backpacks,19,35.0
+2025-06-28,Calculators,12,18.0
+2025-06-28,Pencil Cases,33,8.0
+2025-06-29,Notebooks,46,2.5
+2025-06-29,Pencils,76,0.5
+2025-06-29,Backpacks,15,35.0
+2025-06-29,Calculators,13,18.0
+2025-06-29,Pencil Cases,19,8.0
